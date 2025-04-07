@@ -1,0 +1,1 @@
+# numpy-uygulama-furkanakkus
